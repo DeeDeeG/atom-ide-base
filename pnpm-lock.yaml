@@ -56,7 +56,7 @@ importers:
       '@types/react-dom': ^17.0.0
       atom-ide-markdown-service: ^2.0.0
       atom-jasmine3-test-runner: ^5.1.8
-      atom-package-deps: ^7.2.1
+      atom-package-deps: github:UziTech/package-deps#patch-2
       babel-jest: ^26.6.3
       babel-preset-atomic: ^3.0.2
       build-commit: 0.1.4
